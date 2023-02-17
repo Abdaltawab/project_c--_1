@@ -1,0 +1,10 @@
+﻿  problem 3.cpp
+C:\Users\workstation\source\repos\problem 3\problem 3\problem 3.cpp(65,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\workstation\source\repos\problem 3\problem 3\problem 3.cpp(69,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\workstation\source\repos\problem 3\problem 3\problem 3.cpp(74,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\workstation\source\repos\problem 3\problem 3\problem 3.cpp(80,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\workstation\source\repos\problem 3\problem 3\problem 3.cpp(131,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\workstation\source\repos\problem 3\problem 3\problem 3.cpp(135,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\workstation\source\repos\problem 3\problem 3\problem 3.cpp(140,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\workstation\source\repos\problem 3\problem 3\problem 3.cpp(146,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  problem 3.vcxproj -> C:\Users\workstation\source\repos\problem 3\Debug\problem 3.exe
